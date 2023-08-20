@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently pursuing **Master of Science (MSCS) degree at OSU with a specialization in Artificial Intelligence.**
 
-- 🌱 I’m currently learning **Microsoft Azure "AI challenge focused on Machine Learning"**
+- 🌱 Currently exploring/learning **Microsoft Azure "AI challenge focused on Machine Learning"**
 
-- 👯 I’m highly interested in **Machine Learning(ML), Computer Vision(CV), Natural Language Processing(NLP), Deep Learning(DL), Robotics (Perception Teams) - Autonomous Driving, Surgical Robotics domains.**
+- 👯 I’m highly interested in **Machine Learning (ML), Computer Vision (CV), Natural Language Processing (NLP), Deep Learning (DL), Robotics (Perception Teams) - Autonomous Driving, Surgical Robotics domains.**
 
-- 🤝 I’m actively seeking full-time opportunities in any of the following roles: **Data Scientist,Machine Learning Engineer,Research Engineer/Scientist(CV,NLP,DL),Software Engineer in AI.**
+- 🤝 I’m actively seeking full-time opportunities in any of the following roles: **Data Scientist, Machine Learning Engineer, Research Engineer/Scientist (CV,NLP,DL), Software Engineer in AI.**
 
-- 📫 How to reach me **sundaraa@oregonstate.edu**
+- 📫 Let's get acquainted? Contact me at **sundaraa@oregonstate.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ijY1TThmhr3No9HxFTUOdHx9Y6ajp8GO?usp=sharing](https://drive.google.com/drive/folders/1ijY1TThmhr3No9HxFTUOdHx9Y6ajp8GO?usp=sharing)
+- 📄 Get to know me better? Check out my resume: [https://drive.google.com/drive/folders/1ijY1TThmhr3No9HxFTUOdHx9Y6ajp8GO?usp=sharing](https://drive.google.com/drive/folders/1ijY1TThmhr3No9HxFTUOdHx9Y6ajp8GO?usp=sharing)
 
-- ⚡ Fun fact **I love playing badminton and binge watching TV shows & movies!**
+- ⚡ Things I do for fun : **I love playing badminton and binge watching TV shows & movies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
