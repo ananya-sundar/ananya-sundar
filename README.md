@@ -14,8 +14,8 @@
 - 📫 Let's get acquainted? Contact me at **sundaraa@oregonstate.edu**
 
 - 📄 Get to know me better? Check out my resume:
-  - [Data Science/NLP](https://github.com/ananya-sundar/ananya-sundar/blob/7c9d2a5ca1a54fe2ed4a3fb42bbdea143508fcb5/Ananya_Sundar_Resume_DS_NLP.pdf)
-  - [Computer Vision/ML](https://github.com/ananya-sundar/ananya-sundar/blob/7c9d2a5ca1a54fe2ed4a3fb42bbdea143508fcb5/Ananya_Sundar_Resume_CV_DL.pdf)
+  - [Data Science/NLP](https://github.com/ananya-sundar/ananya-sundar/blob/eb1e76a1698c64ec8b9eb0fd67f419c7ee6161d8/Resume/Ananya_Sundar_Resume_Data_Science.pdf)
+  - [Computer Vision/ML](https://github.com/ananya-sundar/ananya-sundar/blob/eb1e76a1698c64ec8b9eb0fd67f419c7ee6161d8/Resume/Ananya_Sundar_Resume_Comp_Vision_Deep_Learning.pdf)
 - ⚡ Things I do for fun : **I love playing badminton and binge watching TV shows & movies!**
 
 <h3 align="left">Connect with me:</h3>
