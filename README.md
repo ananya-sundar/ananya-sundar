@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ananya Sundararajan</h1>
-<h3 align="center">A Computer Science Grad from Oregon State University! Passionate about Machine Learning and Artificial Intelligence with a research focus in Computer Vision.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-sundar&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-sundar" /> </p>
 
-- 🔭 I’m currently pursuing **Master of Science (MSCS) degree at OSU with a specialization in Artificial Intelligence.**
+- 🔭 I’m currently working at Amazon as a SDE (ML) at AWS AI CV org
 
-- 🌱 Currently exploring/learning **Microsoft Azure "AI challenge focused on Machine Learning"**
+- 🌱 Graduated with a Master of Science (MSCS) degree at OSU with a specialization in Artificial Intelligence.
 
-- 👯 I’m highly interested in **Machine Learning (ML), Computer Vision (CV), Natural Language Processing (NLP), Deep Learning (DL), Robotics (Perception Teams) - Autonomous Driving, Surgical Robotics domains.**
+- 👯 I’m highly interested in **Machine Learning (ML), Computer Vision (CV), Natural Language Processing (NLP) and Generative AI (LLMs), Deep Learning (DL), Robotics (Perception Teams) - Autonomous Driving, Surgical Robotics domains.**
 
-- 🤝 I’m actively seeking full-time opportunities in any of the following roles: **Data Scientist, Machine Learning Engineer, Research Engineer/Scientist (CV,NLP,DL), Software Engineer in AI.**
+- 🤝 Love to Collab on work which is in the intersection of ML and Research. 
 
-- 📫 Let's get acquainted? Contact me at **sundaraa@oregonstate.edu**
+- 📫 Let's get acquainted? Contact me on <a href="https://www.linkedin.com/in/ananyas21/"> LinkedIn </a> 
 
-- 📄 Get to know me better? Check out my resume:
-  - [Data Science/NLP](https://github.com/ananya-sundar/ananya-sundar/blob/eb1e76a1698c64ec8b9eb0fd67f419c7ee6161d8/Resume/Ananya_Sundar_Resume_Data_Science.pdf)
-  - [Computer Vision/ML](https://github.com/ananya-sundar/ananya-sundar/blob/eb1e76a1698c64ec8b9eb0fd67f419c7ee6161d8/Resume/Ananya_Sundar_Resume_Comp_Vision_Deep_Learning.pdf)
+- 📄 Get to know me better? Check out my <a href = "https://ananya-sundar.github.io/"> Portfolio </a>
+
 - ⚡ Things I do for fun : **I love playing badminton and binge watching TV shows & movies!**
 
 <h3 align="left">Connect with me:</h3>
